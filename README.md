@@ -1,4 +1,4 @@
-# helloword
+# Hello-Word
 Tugas Kecerdasan Buatan
 
 # Nama : Sri Putrianti Mateka
